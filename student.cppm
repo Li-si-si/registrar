@@ -20,7 +20,6 @@ public:
     Student(string id, string name);
 
     void enrollsIn(class Course* course);
-    string schedule();
     string info();
     bool hasId(string id);
 
